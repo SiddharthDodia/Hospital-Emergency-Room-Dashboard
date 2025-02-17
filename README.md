@@ -37,6 +37,8 @@ The dashboard tracks the following **critical hospital performance metrics**:
 ## 🏥 Dashboard Structure  
 
 ### 📅 1. Monthly View  
+![image](https://github.com/user-attachments/assets/63e68217-5297-412e-964a-9aeefddf79c7)
+
 **Objective:** Analyze **month-over-month** performance trends.  
 
 **Key Visualizations:**  
