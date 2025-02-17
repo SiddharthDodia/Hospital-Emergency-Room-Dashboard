@@ -115,27 +115,3 @@ This **Power BI Dashboard** empowers hospital administrators with **data-driven 
 
 By analyzing **trends in patient demographics, wait times, referrals, and satisfaction**, hospitals can take **proactive measures** to **improve emergency room efficiency** and **patient care**.  
 
----
-
-## 🔗 How to Use This Dashboard  
-
-1️⃣ **Download the Power BI File** (*Include link if hosted on GitHub or another platform*).  
-2️⃣ **Connect the dataset** (*if required, provide setup instructions*).  
-3️⃣ **Use the Navigation Bar** to explore different **dashboard pages**.  
-4️⃣ **Customize Date Filters** to analyze specific periods.  
-5️⃣ **Derive Insights & Take Action** based on the provided analysis.  
-
----
-
-## 📩 Feedback & Contributions  
-
-💡 Have suggestions for improvement? Found a bug?  
-- Feel free to open an **issue** or submit a **pull request**! 🚀  
-
-📧 Contact: **[Your Email or GitHub Profile]**  
-
-🌟 **If you find this dashboard useful, don’t forget to star ⭐ the repository!**  
-
----
-
-### 🚀 Let’s revolutionize emergency room management with data-driven insights! 🚀  
