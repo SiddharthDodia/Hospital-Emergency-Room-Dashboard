@@ -52,6 +52,8 @@ The dashboard tracks the following **critical hospital performance metrics**:
 ---
 
 ### 📊 2. Consolidated View  
+![image](https://github.com/user-attachments/assets/af70eb29-3e6f-4d80-97d3-3dad08d086fe)
+
 **Objective:** Provide a **holistic** summary of hospital performance for a **custom date range**.  
 
 **Key Visualizations:**  
@@ -62,6 +64,8 @@ The dashboard tracks the following **critical hospital performance metrics**:
 ---
 
 ### 📝 3. Patient Details  
+![image](https://github.com/user-attachments/assets/cc5f69aa-f173-453c-9f3e-8aebaff728d1)
+
 **Objective:** Provide **granular, patient-level** data for in-depth analysis.  
 
 **Key Features:**  
@@ -77,6 +81,9 @@ The dashboard tracks the following **critical hospital performance metrics**:
 ---
 
 ### 📢 4. Key Takeaways  
+![image](https://github.com/user-attachments/assets/b41a92bd-26cf-443c-9c23-c1f7d2978609)
+
+
 **Objective:** Summarize key **insights, trends, and recommendations** for hospital stakeholders.  
 
 **Key Insights:**  
