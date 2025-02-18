@@ -12,7 +12,7 @@ The **Hospital Emergency Room Dashboard** is a **Power BI** solution designed to
 
 - **Total Patients Analyzed:** 9,216 (April 2023 - October 2024)  
 - **Dashboard Pages:** 4 (Monthly View, Consolidated View, Patient Details, Key Takeaways)  
-- **Data Source:** *(Insert Dataset URL Here)*  
+- **Data Source:** *https://github.com/SiddharthDodia/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20ER_Data.csv*  
 - **Navigation:** A built-in **navigation bar** allows seamless movement between pages.  
 
 ---
